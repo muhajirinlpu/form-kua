@@ -1689,6 +1689,13 @@ browserslist@^4.0.0, browserslist@^4.3.4, browserslist@^4.5.4, browserslist@^4.7
     electron-to-chromium "^1.3.247"
     node-releases "^1.1.29"
 
+buefy@^0.8.0:
+  version "0.8.5"
+  resolved "https://registry.npm.taobao.org/buefy/download/buefy-0.8.5.tgz#a91291cd86355df06ea35174000f948dad2bd212"
+  integrity sha1-qRKRzYY1XfBuo1F0AA+Uja0r0hI=
+  dependencies:
+    bulma "0.7.5"
+
 buffer-from@^1.0.0:
   version "1.1.1"
   resolved "https://registry.npm.taobao.org/buffer-from/download/buffer-from-1.1.1.tgz#32713bc028f75c02fdb710d7c7bcec1f2c6070ef"
@@ -1717,6 +1724,11 @@ builtin-status-codes@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npm.taobao.org/builtin-status-codes/download/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
   integrity sha1-hZgoeOIbmOHGZCXgPQF0eI9Wnug=
+
+bulma@0.7.5:
+  version "0.7.5"
+  resolved "https://registry.npm.taobao.org/bulma/download/bulma-0.7.5.tgz#35066c37f82c088b68f94450be758fc00a967208"
+  integrity sha1-NQZsN/gsCIto+URQvnWPwAqWcgg=
 
 bytes@3.0.0:
   version "3.0.0"
@@ -7900,6 +7912,11 @@ vm-browserify@^1.0.1:
   version "1.1.0"
   resolved "https://registry.npm.taobao.org/vm-browserify/download/vm-browserify-1.1.0.tgz#bd76d6a23323e2ca8ffa12028dc04559c75f9019"
   integrity sha1-vXbWojMj4sqP+hICjcBFWcdfkBk=
+
+vue-cli-plugin-buefy@^0.3.7:
+  version "0.3.7"
+  resolved "https://registry.npm.taobao.org/vue-cli-plugin-buefy/download/vue-cli-plugin-buefy-0.3.7.tgz#31e5637529482a5a4564676f539db16278b0895c"
+  integrity sha1-MeVjdSlIKlpFZGdvU52xYniwiVw=
 
 vue-eslint-parser@^2.0.3:
   version "2.0.3"
